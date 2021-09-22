@@ -1,5 +1,8 @@
 # Test Assignment 1
-## Reflections
+
+[Assignment Link](assignment-01.pdf) 
+
+## 1 Reflections
 ### Shooting
 	A woman fired a shot at a man with her gun, but the man did not die. List
 	the possible reasons for the man not dying.
@@ -69,8 +72,18 @@
 	7. Spit out the toothpaste remaining in your mouth into the sink. This can be done by washing it out with water at a comfortable temperature for you.
 	8. Turn off the faucet if it's on. Place the toothbrush back where you found it.
 	9. OPTIONAL STEP: Admire your freshly brushed teeth by appraising their reflection in a mirror!
+## 2 Two Katas
+Examples that I worked on to understand the process.
+<br>[Kata example classes folder](https://github.com/FrederikBlem/Tst-Assignment-01/tree/main/TestAssignment1/src/main/java/kata)
+<br>[Kata example test class](https://github.com/FrederikBlem/Tst-Assignment-01/blob/main/TestAssignment1/src/test/java/kata/QueueOfPeopleTest.java)
 
-## Thoughts on TDD
+### 2.1
+[FahrenheitToCelsiusConverter.java](https://github.com/FrederikBlem/Tst-Assignment-01/blob/main/TestAssignment1/src/main/java/converter/FahrenheitToCelsiusConverter.java)
+<br>[FahrenheitToCelsiusConverterTest.java](https://github.com/FrederikBlem/Tst-Assignment-01/blob/main/TestAssignment1/src/test/java/converter/FahrenheitToCelsiusConverterTest.java)
+### 2.2
+[NumberToRomanNumeralConverter.java](https://github.com/FrederikBlem/Tst-Assignment-01/blob/main/TestAssignment1/src/main/java/converter/NumberToRomanNumeralConverter.java)
+<br>[NumberToRomanNumeralConverterTest.java](https://github.com/FrederikBlem/Tst-Assignment-01/blob/main/TestAssignment1/src/test/java/converter/NumberToRomanNumeralConverterTest.java)
+## 3 Thoughts on TDD
 * What was positive and good about using TDD?
 <br>I like the idea of having my software be tested, which it always will be using TDD.
 * What was annoying or difficult?
