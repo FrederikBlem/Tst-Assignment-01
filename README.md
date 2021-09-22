@@ -69,3 +69,13 @@
 	7. Spit out the toothpaste remaining in your mouth into the sink. This can be done by washing it out with water at a comfortable temperature for you.
 	8. Turn off the faucet if it's on. Place the toothbrush back where you found it.
 	9. OPTIONAL STEP: Admire your freshly brushed teeth by appraising their reflection in a mirror!
+
+## Thoughts on TDD
+* What was positive and good about using TDD?
+I like the idea of having my software be tested, which it always will be using TDD.
+* What was annoying or difficult?
+It's difficult to adhere to TDD and not just jump ahead to the "optimal solution" immediately, if you have had some thoughts on how to implement something.
+* What surprised you?
+I was surprised by how naturally the process went once I got into it. It made sense that you logically end up accounting for what your tests are missing as you write the tests.
+* Did TDD help you write some you wouldn't otherwise have thought of?
+Possibly, not sure yet - need to spend more time on it.
